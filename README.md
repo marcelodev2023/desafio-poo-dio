@@ -19,7 +19,7 @@ footprints Passo-a-Passo
 3. As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
 4. Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
 5. E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS
-books Paradigma de Programação Orientado a Objetos (POO)
+books Paradigma de Programação Orientado a Objetos (POO).
 
 A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
 Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.
